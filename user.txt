@@ -45,14 +45,14 @@ Naiyan vha f257df884eaaba50c4bbabf30f230f64
 ✅❌ _Masum Billah - 500-02:38Am:- 11/02/2022 - b389ca7f02cf219b2e9e6de6440f3442 - id : 9829e43cc275d7665a3769f14d523266
 
 
-✅❌✅ _Md Sozib Hossain-500 Trail -11:04PM:-12/15/2022 - 18313834e5ce3ecd07a0fbc173455f3b - 68439531cb0b027aa7317ccbfb9417c7
+✅❌✅❌ _Md Sozib Hossain-500 Trail -11:04PM:-12/15/2022 - 18313834e5ce3ecd07a0fbc173455f3b - 68439531cb0b027aa7317ccbfb9417c7
                                                                                          093dbd35419e997a960b560252b51291
 
 ✅❌ _শরীফ আহম্মেদ demo trail () :11/6/2022/ - 12:05 AM - 5c90e8305868f2bf45b9fdfe11d329df - 
 
 ✅❌ _Mofazzal Hasan 500 tk :- 11/7/2022 - c85d27db20ed72645a485fdc00ffbd8c - e44f8cdda2c50d95e6f0f0d7c6523580
 
-✅❌❌✅ Sabbir Hossain 700 - 15 days - 12:00Am: -01/12/2023 - bcf0a13bdb3a633257a190631d233719 - id:- 769565a29bd1b5b2dbc44d96d44760da
+✅❌❌✅❌ Sabbir Hossain 700 - 15 days - 12:00Am: -01/12/2023 - bcf0a13bdb3a633257a190631d233719 - id:- 769565a29bd1b5b2dbc44d96d44760da
 
 ❌_Md Junu Ahmed - trail 11/8/20222 : 2:05 - 98f9741b52945668cac7ae640ab9e10b - id 0b669ccd00c75c62db259d40ef0a61f2
 
@@ -75,11 +75,11 @@ _School _ 11/22/2022 key - 950042eb792bd70550f0c3f14d3432d8 - id - 5e24165f3f7e0
 ✅❌✅❌ _Irfaan Nabi Hridoy 15 day 200 tk - 19/10/2022  key - 307a4f7103cb2c98b6212a4cfd1e3400 - id - 69b9dd2dafd16466ea52609b5819d355 + a5cbcf85cdef705178d677e32458b3b8
 ✅❌_ 15 day 200 tk - 12/19/2022 Sobuj Rahman key 45b4f950b10266ed33af851e78b6e0f5 - id - d737d683845f63bd28bec140a4367799
 
-✅❌✅❌✅ _AN_Abir_Ahmed-500-10:57Am:-12/04/2022 - 40d2f13ac377d0fb1851b75bcbe0abf7 - 2bd79900dd80b5f2e4df7c543f06a57f
+✅❌✅❌✅❌ _AN_Abir_Ahmed-500-10:57Am:-12/04/2022 - 40d2f13ac377d0fb1851b75bcbe0abf7 - 2bd79900dd80b5f2e4df7c543f06a57f
                                                                                        7ddc8e7efa697fc71e3da3a8ff4e29fd
 
 4693486c4e6cf096478af3f89d441934    -   Alifffffffffffffffffffffffffffff vhi er friend
-✅_Zahid_Hasan-300 - 30 days - 10:57Am: -12/29/2022   - 3cd6ad3873a8adc32b40bddfc78fe4ee ---   9698fbab39e9d308677ef1554b995143
+✅❌_Zahid_Hasan-300 - 30 days - 10:57Am: -12/29/2022   - 3cd6ad3873a8adc32b40bddfc78fe4ee ---   9698fbab39e9d308677ef1554b995143
 
 ❌_Hamidur_Rahman 15 day 200 tk - 01/06/2023 a1a273b50b3d26dccc40940732cae1f5 --- 3e8e3484338dbacda96a2b1cd3108d4d
 
@@ -89,16 +89,15 @@ _School _ 11/22/2022 key - 950042eb792bd70550f0c3f14d3432d8 - id - 5e24165f3f7e0
 ✅_Zisan_Kha_Shuvo-300 - 07 days - 12:00Am: -01/22/2023 - 6251337291cb925be63fe841a5ebba60 - 696cdb3baabb52d0d87ab865005954a0
 ❌_Sobuj_ahmed_Shuvo-300 - 07 days - 12:00Am: -01/13/2023 - fa7668050a1a0b65c642f88a1b585765 - bd35b5b2edf3ca86b8ef853105bca780
 ❌_Shamim-Hossain-400 - 30 days - 12:00Am: -01/14/2023 - b8a33893a5582bf2932b7f601ff606c3 - 4e9824f4ef2de3a485b096a29b33f445
+
+
+
 ✅_Mahidul_islam_zidan-100 - 07 days - 12:00Am: -01/24/2023 - 7614b994d3e0cf06e6d74a707da1d6ee -  7d9a1f02fc30570afb11c81e1c5135a9
-
-
-
-
 ✅_Md_Akter_Hossain_Mafi-180 - 15 days - 12:00Am: -01/20/2023 - 68721fb8c56b55ebd1ee7d875fd9398c - 1729a4e6b0220cfd1cb3eda69546a4f1
-✅_Md_Shorov-100 - 07 days - 12:00 PM: -01/21/2023  - 81d8e98a96ce90a5c7b641ead3638059 - f1205601d852768743d52e01f500e1d8
+❌_Md_Shorov-100 - 07 days - 12:00 PM: -01/21/2023  - 81d8e98a96ce90a5c7b641ead3638059 - f1205601d852768743d52e01f500e1d8
 ✅_SA_J_EN_(Saeed)-100 - 07 days - 12:00Am: -01/24/2023 - 1443e5c2b8c0ca3dc1ea4909e61657ac - ccba28e449d6f1778fae35b036fdff57
 ✅_MD Naimur-100 - 07 days - 12:00Am: -01/26/2023 - 1f04cc00a6bd1a5750bbd8b32153c3dd - fe4ac89c09006bb8bbaccb8e9c421268
-✅_Md-anamul-200 - 07 days - 12:00Am: -01/26/2023 - b3ad95f589658574b2f65126857c8387 - 0aefb6fc2d2096cbb7d7a6a944f5baeb
+✅_Md-anamul-200 - 15 days - 12:00Am: -01/26/2023 - b3ad95f589658574b2f65126857c8387 - 0aefb6fc2d2096cbb7d7a6a944f5baeb
 
 _Shafi_Ahmed-500-10:57Am:-12/04/2022 -- c3a0039d40e14da0f532c53ee356078a - 1729a4e6b0220cfd1cb3eda69546a4f1
 
